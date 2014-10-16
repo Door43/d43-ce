@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ce:home|Door43 (ce)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ce|d43-ce repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ce/archive/master.zip|d43-ce.zip]]
+
+**Recent Changes**
+{{changes>ns = ce}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ce|Ethnologue data]]
+
